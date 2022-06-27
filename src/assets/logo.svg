@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="386" height="148" viewBox="0 0 386 148">
+  <g id="Group_8" data-name="Group 8" transform="translate(-96 -1967)">
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(96 1967)" fill="#68d6ff" stroke="#161616" stroke-width="7">
+      <circle cx="74" cy="74" r="74" stroke="none"/>
+      <circle cx="74" cy="74" r="70.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(242 1967)" fill="#ee6bbe" stroke="#161616" stroke-width="7">
+      <circle cx="16.5" cy="16.5" r="16.5" stroke="none"/>
+      <circle cx="16.5" cy="16.5" r="13" fill="none"/>
+    </g>
+    <text id="Besiqn" transform="translate(258 2069)" fill="#161616" font-size="68" font-family="SegoeUIBlack-Italic, Segoe UI" font-style="italic"><tspan x="0" y="0">Besiqn</tspan></text>
+  </g>
+</svg>
